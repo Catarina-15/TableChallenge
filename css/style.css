@@ -1,0 +1,59 @@
+table {
+  border: 1px solid darkorchid;
+  text-align: justify;
+  width: 600px;
+  margin: 0 auto;
+}
+
+thead {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f18973;
+}
+
+td {
+    border-top: 1px solid darkorchid;
+    text-align: center;
+    color: white;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: white;
+}
+#number {
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+}
+
+#points {
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+}
+
+th {
+color: white;
+}
+
+.center {
+justify-content: center;
+}
+
+body {
+  background-image: url("https://cloudfront-us-east-2.images.arcpublishing.com/reuters/UN473POSYBKIHBY3W4SZFAWM7Q.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100em;
+  height: 100em;
+}
+.name {
+  text-align: center;
+}
